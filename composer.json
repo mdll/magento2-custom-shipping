@@ -1,5 +1,5 @@
 {
-  "name": "magepsycho/magento2-custom-shipping",
+  "name": "mdll/magento2-custom-shipping",
   "description": "Custom Shipping for Magento 2",
   "type": "magento2-module",
   "version": "1.0.2",
@@ -15,7 +15,7 @@
   ],
   "require": {
     "php": "~5.5.0|~5.6.0|~7.0.0",
-    "magento/framework": "~100.0.4"
+    "magento/framework": "^100.0.4"
   },
   "autoload": {
     "files": [
